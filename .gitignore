@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.DS_Store
+
+outputs/*
+!outputs/.gitkeep
+
+data/raw/*
+!data/raw/README.md
+
+*.log
+~$*.xlsx
+~$*.docx
